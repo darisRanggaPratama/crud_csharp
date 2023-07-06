@@ -1,0 +1,11 @@
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\bin\Debug\DataKaryawan.exe.config
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\bin\Debug\DataKaryawan.exe
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\bin\Debug\DataKaryawan.pdb
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.csproj.AssemblyReference.cache
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.csproj.SuggestedBindingRedirects.cache
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.DataKaryawan.resources
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.Properties.Resources.resources
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.csproj.GenerateResource.cache
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.csproj.CoreCompileInputs.cache
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.exe
+C:\Users\raden\Documents\UploadGithub\crud_csharp\DataKaryawan\obj\Debug\DataKaryawan.pdb
