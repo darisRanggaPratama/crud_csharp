@@ -41,5 +41,57 @@ namespace DataKaryawan
 		{
 
 		}
+
+	
+
+		private void btnUbah_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void btnSimpan_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txtNIk_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txtNama_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void cboxJabat_SelectedIndexChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txtAlamat_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txtEmail_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txtTelepon_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void txtCari_TextChanged(object sender, EventArgs e)
+		{
+
+		}
+
+		private void btnCari_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
